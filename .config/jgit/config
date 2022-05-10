@@ -1,0 +1,9 @@
+[filesystem "Oracle Corporation|17|-400309983"]
+	timestampResolution = 7005 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|17|1921160133"]
+	timestampResolution = 1005 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|17|1512311961"]
+	timestampResolution = 1002 microseconds
+	minRacyThreshold = 0 nanoseconds
